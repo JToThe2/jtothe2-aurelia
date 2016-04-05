@@ -1,50 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bda05491-d92d-40d8-88b2-07ec8d53ecf7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/tile-wide.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.idea/jtothe2-aurelia.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.jscsrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/gulpfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/browserconfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/crossdomain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/TOC.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/css.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/extend.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/faq.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/html.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/js.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/misc.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/doc/usage.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/humans.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/img/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/js/plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/js/vendor/modernizr-2.8.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/src/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/test/file_content.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/test/file_existence.js" />
+    <list default="true" id="bda05491-d92d-40d8-88b2-07ec8d53ecf7" name="Default" comment="boilerplate mostly">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../jtothe2-aurelia/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../jtothe2-aurelia/.idea/workspace.xml" />
     </list>
     <ignored path="untitled.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -393,12 +351,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1459830683510</updated>
-      <workItem from="1459830684789" duration="3971000" />
+      <workItem from="1459830684789" duration="4047000" />
     </task>
+    <task id="LOCAL-00001" summary="boilerplate mostly">
+      <created>1459839220678</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459839220678</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3971000" />
+    <option name="totallyTimeSpent" value="4047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
@@ -408,7 +374,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26247987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32991317" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -430,6 +396,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="boilerplate mostly" />
+    <option name="LAST_COMMIT_MESSAGE" value="boilerplate mostly" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
